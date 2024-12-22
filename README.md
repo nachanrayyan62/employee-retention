@@ -56,7 +56,7 @@ Analyzes trends and factors contributing to employee attrition.
 
 ## Repository Structure
 - EmployeeRetention.pbix: Power BI dashboard file.
-- screenshots/: Folder with dashboard previews.
+- Dashboard previews.
   - Page1.png: Overview Page.
   - Page1.1.png: Overview Page.
   - Page2.png: Demographics Page.
