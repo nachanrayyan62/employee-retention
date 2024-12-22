@@ -2,10 +2,6 @@
 
 This repository contains a Power BI dashboard designed to analyze employee retention. The dashboard includes insights on attrition rates, tenure, and factors affecting employee retention.
 
-## Files
-- `EmployeeRetention.pbix`: The Power BI file for the dashboard.
-- `README.md`: Overview of the project.
-
 ## Features
 ### Dashboard Overview
 - **Pages:** 3
