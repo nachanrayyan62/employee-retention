@@ -1,41 +1,58 @@
 # Employee Retention Dashboard
 
-This repository contains a Power BI dashboard designed to analyze employee retention. The dashboard includes insights on attrition rates, tenure, and factors affecting employee retention.
+This repository contains a comprehensive Power BI dashboard designed to analyze employee retention metrics, including attrition rates, tenure, and factors influencing retention.
 
 ## Features
+
 ### Dashboard Overview
-- **Pages:** 3
-- **Cards:** 12 (Key metrics like attrition rate, average tenure, etc.)
-- **Charts:** 16 (Bar charts, line charts, pie charts, and more)
+- **Pages:** 3 (Summary, Demographics, and Attrition)
+- **Cards:** 12 (Key metrics such as attrition rate, average tenure, and more)
+- **Charts:** 16 (Bar charts, line charts, pie charts, etc.)
 
-1. **Summary Page:**
-   - Summary cards for active employees, average pay, job satisfaction, high performers.
-   - Key charts:
-     - Retention rate by Department.
-     - Performance rate by Department.
-     - Monthly Income by Department.
-     - Employees count by Department.
+#### **Summary Page:**
+Provides a high-level overview of retention metrics and departmental performance.
+- **Key Metrics:**
+  - Active employees
+  - Average pay
+  - Job satisfaction
+  - High performers
+- **Key Charts:**
+  - Retention rate by department
+  - Performance rate by department
+  - Monthly income by department
+  - Employees count by department
 
-2. **Demographics Page:**
-   - Demographics cards for retention rate, employee tenure, average job invlvement, daily pay average.
-   - Key charts:
-     - Job satisfaction by Department.
-     - Performance rate by Job Role and Attrition.
-     - Male and Female counts by Monthly Income Range.
-     - Employees count by Job Role.
-    
-3. **Attrition Page:**
-   - Attrition cards for attrition rate, top talent attrition, leaver income rate, employee exit tenure.
-   - Key charts:
-     - Employees by Job Satisfaction and Attrition.
-     - Attrition Rate by Department.
-     - Attrition Rate by Job Role.
-     - Attrition Rate by Education Field.
+#### **Demographics Page:**
+Focuses on demographic data and its impact on employee retention.
+- **Key Metrics:**
+  - Retention rate
+  - Employee tenure
+  - Average job involvement
+  - Daily pay average
+- **Key Charts:**
+  - Job satisfaction by department
+  - Performance rate by job role and attrition
+  - Gender distribution by monthly income range
+  - Employee count by job role
 
-## How to Use
-1. Download the `.pbix` file.
+#### **Attrition Page:**
+Analyzes trends and factors contributing to employee attrition.
+- **Key Metrics:**
+  - Attrition rate
+  - Top talent attrition
+  - Income rate of leavers
+  - Employee exit tenure
+- **Key Charts:**
+  - Job satisfaction vs. attrition
+  - Attrition rate by department
+  - Attrition rate by job role
+  - Attrition rate by education field
+
+## Getting Started
+1. Download the `EmployeeRetention.pbix` file from the repository.
 2. Open it in Power BI Desktop.
 3. Update the data source settings if prompted.
+4. Refresh the data to view insights.
 
 ## Repository Structure
 - EmployeeRetention.pbix: Power BI dashboard file.
@@ -44,4 +61,4 @@ This repository contains a Power BI dashboard designed to analyze employee reten
   - Page1.1.png: Overview Page.
   - Page2.png: Demographics Page.
   - Page3.png: Attrition Page.
-- `README.md`: Project documentation.
+- README.md: Project documentation.
