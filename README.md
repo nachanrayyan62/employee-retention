@@ -62,3 +62,10 @@ Analyzes trends and factors contributing to employee attrition.
   - Page2.png: Demographics Page.
   - Page3.png: Attrition Page.
 - README.md: Project documentation.
+
+## Requirements
+- Power BI Desktop
+- A compatible data source (e.g. Excel)
+
+## Support
+For questions or issues, feel free to open an issue in this repository or contact nachanrayyan62@gmail.com.
